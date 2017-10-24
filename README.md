@@ -1,9 +1,10 @@
-# Generate_ER_Diagram_SQL_Developer
-Oracle PL/SQL World
-# The Complete and Berief document about How to Generate Oracle ER Diagram through Oracle SQL Developer.
+# Generate ER Diagram Using Oracle SQL_Developer
+# Oracle PL/SQL World
 
-      Generating ER Diagram in Oracle SQL Developer
-(Documented by using – Oracle SQL Developer Version 4.0.1.14)
+# The Complete and Berief document about How to Generate Oracle ER Diagram through Oracle SQL Developer.(Screen Shots has been attached in Attached Word Document)
+
+   Generating ER Diagram in Oracle SQL Developer
+# (Documented by using – Oracle SQL Developer Version 4.0.1.14)
 
 # Step 1:
 
